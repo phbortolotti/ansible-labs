@@ -1,3 +1,7 @@
-# Ansible Labs
+## Ansible Labs
 
-Documentação: https://docs.ansible.com/ansible/latest/index.html
+Playbook para instalação de uma stack de Wordpress
+
+## Documentação Ansible
+
+https://docs.ansible.com/ansible/latest/index.html
